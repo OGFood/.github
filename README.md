@@ -1,1 +1,1 @@
-# .github
+# Organization for Good Food
